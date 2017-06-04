@@ -1,30 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: June 3rd, 2017
+##### The Journey Begins
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I'm still a newbie learning to code so I'm going through CodeCamp projects. I'm working on one of thew first assignments which is to create a tribute page for someone. The User stories are simple. Include an image, some text and a Link to more informaiton about that person. It's all to be done in codepen.io.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+I chose to do my tribute page for Valentina Tereshkova who was a Russian Cosmonaut an first female in space.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** I fell into some traps and focused too much of my time on trying to find a cool background image or video for the page and ended up using [Saransh Sinha's Parralax Star Background](https://codepen.io/saransh/details/BKJun#forks). It's a really cool effect but it was probably a mistake, since it is written in HAML and SASS, neither of which I know anything about. It's been fun figuring it out though and I've made some changes here and there but I really should have just compliled the code and worked in HTML and CSS which I understand a bit better. Alas!
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work:** https://codepen.io/Bear-with-me/details/MoWJPj
 
 
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
